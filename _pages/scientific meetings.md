@@ -14,7 +14,7 @@ horizontal: true
 <ul>
 	<li> 18-21 June 2023. <a href="https://iga2023.sciencesconf.org/"> Eleventh International Conference on Isogeometric Analysis</a>, Lyon, France.</li>
 	<li> 15-18 May 2023. <a href="https://my.vanderbilt.edu/nashville2023/"> International Conference on Approximation Theory and Beyond</a>, Nashville, USA. </li>
-	<li> 26 Feb - 3 Mar. <a href="https://www.siam.org/conferences/cm/conference/cse23"> SIAM Conference on Computational Science and Engineering</a>, Amsterdam, Netherlands. </li>
+	<li> 26 Feb - 3 Mar 2023. <a href="https://www.siam.org/conferences/cm/conference/cse23"> SIAM Conference on Computational Science and Engineering</a>, Amsterdam, Netherlands. </li>
 	<li> 14–17 February 2023. <a href="http://grapes-network.eu/event/software-industrial-workshop-ii-and-esr-days/"> GRAPES Software & Industrial Workshop II and ESR Days</a>, Athens, Greece.</li>
 </ul>
 
