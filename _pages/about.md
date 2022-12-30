@@ -6,7 +6,7 @@ subtitle: <a href='#'>raval@mat.uniroma2.it</a>
 
 profile:
   align: right
-  image: krunal_pic.jpg
+  image: prof_pic1_2.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p> </p>
