@@ -16,7 +16,6 @@ horizontal: true
 	<li> 4-8 Sept 2023. GRAPES Learning Week II: Industrial skills and advanced topics on ML, Institut de Matematiques of the University of Barcelona, Barcelona, Spain.</li>
 	<li> 3-5 July 2023. <a href="https://www.siam.org/conferences/cm/conference/gd23"> SIAM Conference on Computational Geometric Design</a>, Genoa, Italy.</li>
 	<li> 18-21 June 2023. <a href="https://iga2023.sciencesconf.org/"> Eleventh International Conference on Isogeometric Analysis</a>, Lyon, France.</li>
-	<li> 15-18 May 2023. <a href="https://my.vanderbilt.edu/nashville2023/"> International Conference on Approximation Theory and Beyond</a>, Nashville, USA. </li>
 </ul>
 
 ***
