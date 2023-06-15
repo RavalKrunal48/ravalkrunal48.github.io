@@ -19,25 +19,25 @@
   type: time_table
   contents:
     - title: Visiting Researcher
-      institution: SINTEF Digital, Oslo, Norway
+      institution: Department of Mathematics and Cybernetics, SINTEF Digital, Oslo, Norway
       year: May - June 2023
       description:
-        - Mathematics and Cybernetics
+        - Supervisor - <a href="https://www.sintef.no/en/all-employees/employee/tor.dokken/">Tor Dokken</a>,  <a href="https://www.sintef.no/en/all-employees/employee/georg.muntingh/">Georg Muntingh</a>
     - title: Visiting Researcher
-      institution: University of Strathclyde, Glasgow, Scotland
+      institution: Department of Naval Architecture, Ocean and Marine Engineering, University of Strathclyde, Glasgow, Scotland
       year: Sept - Nov 2022
-      description:
-        - Naval Architecture, Ocean and Marine Engineering
+      description: 
+        - Supervisor - <a href="https://www.strath.ac.uk/staff/kaklispanagiotisprof/">Panagiotis Kaklis</a>
     - title: Visiting Researcher
-      institution: SINTEF Digital, Oslo, Norway
+      institution: Department of Mathematics and Cybernetics, SINTEF Digital, Oslo, Norway
       year: Mar - May 2022
       description:
-        - Mathematics and Cybernetics
+        - Supervisor - <a href="https://www.sintef.no/en/all-employees/employee/tor.dokken/">Tor Dokken</a>,  <a href="https://www.sintef.no/en/all-employees/employee/georg.muntingh/">Georg Muntingh</a>
     - title: Research Assistant
-      institution: Ruhr University of Bochum, Bochum, Germany
+      institution: Institute for Structural Mechanics, Ruhr University of Bochum, Bochum, Germany
       year: 2018 - 2020
       description:
-        - Institute for Structural Mechanics
+        - Supervisor - <a href="https://www.sd.ruhr-uni-bochum.de/mitarbeiter/Meschke.html">Günther Meschke</a> 
 
 - title: Grants
   type: time_table
