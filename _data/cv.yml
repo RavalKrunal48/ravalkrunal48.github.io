@@ -19,6 +19,11 @@
   type: time_table
   contents:
     - title: Visiting Researcher
+      institution: SINTEF Digital, Oslo, Norway
+      year: May - June 2023
+      description:
+        - Mathematics and Cybernetics
+    - title: Visiting Researcher
       institution: University of Strathclyde, Glasgow, Scotland
       year: Sept - Nov 2022
       description:
