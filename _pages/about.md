@@ -21,17 +21,11 @@ I am a Marie Sklodowska-Curie Doctoral Fellow in the [GRAPES](http://grapes-netw
 
 <br>
 
-*** 
-
+***
 #### Research interests: 
-  <ul>
-    <li>Isogeometric Analysis</li>
-    <li>Multivariate Spline Functions</li>
-    <li>Tchebycheffian B-splines</li>
-    <li>Locally Refined B-splines</li>
-  </ul>
-
-
+  - Isogeometric Analysis
+  - Multivariate Spline Functions
+  - Tchebycheffian B-splines
+  - Locally Refined B-splines
 
 ***
-

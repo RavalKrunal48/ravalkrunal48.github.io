@@ -1,6 +1,7 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
+# to execute locally -  sudo bundle exec jekyll serve
 
 title: Krunal Raval  # the website title (if blank, full name will be used instead)
 first_name: Krunal
