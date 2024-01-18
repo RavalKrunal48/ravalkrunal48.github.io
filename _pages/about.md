@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'>raval@mat.uniroma2.it</a>
 
@@ -22,7 +22,7 @@ I am a Marie Sklodowska-Curie Doctoral Fellow in the [GRAPES](http://grapes-netw
 <br>
 
 ***
-#### Research interests: 
+#### Research Interests: 
   - Isogeometric Analysis
   - Multivariate Spline Functions
   - Tchebycheffian B-splines
