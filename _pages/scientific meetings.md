@@ -12,6 +12,7 @@ horizontal: true
 
 ### Upcoming
 <ul>
+	<li> 22-23 Feb 2024. <a href="https://sites.google.com/uniroma1.it/workshop2024-spoke-6-icsc/home-page?authuser=0"> Workshop on Multiscale modelling & Engineering Applications</a>, Centro Nazionale di Ricerca in HPC, Big Data and Quantum Computing, Rome, Italy.</li>
 </ul>
 
 ***
