@@ -12,13 +12,16 @@ horizontal: true
 
 ### Upcoming
 <ul>
-	<li> 22-23 Feb 2024. <a href="https://sites.google.com/uniroma1.it/workshop2024-spoke-6-icsc/home-page?authuser=0"> Workshop on Multiscale modelling & Engineering Applications</a>, Centro Nazionale di Ricerca in HPC, Big Data and Quantum Computing, Rome, Italy.</li>
+	<li> 16-20 Sept 2024. <a href="https://www.yamc.it/"> Fourth Conference of Young Applied Mathematicians</a>, Rome, Italy.</li>
+	<li> 23-27 Sept 2024. <a href="https://www.mat.uniroma2.it/~speleers/cime2024/"> CIME Summer School on High-Dimensional Approximation</a>, Cetraro, Italy.</li>
 </ul>
 
 ***
 ### Past
 
 <ul>
+	<li> 8-12 July 2024. <a href="https://isoa.lakecomoschool.org/"> Isogeometric Analysis: Theory, Applications, and New Trends</a>, Lake Como School of Advanced studies, Como, Italy.</li>
+	<li> 22-23 Feb 2024. <a href="https://sites.google.com/uniroma1.it/workshop2024-spoke-6-icsc/home-page?authuser=0"> Workshop on Multiscale modelling & Engineering Applications</a>, Centro Nazionale di Ricerca in HPC, Big Data and Quantum Computing, Rome, Italy.</li>
 	<li> 18-22 Sept 2023. <a href="https://www.yamc.it/home"> Third Conference of Young Applied Mathematicians</a>, Siena, Italy.</li>
 	<li> 4-8 Sept 2023. <a href="http://grapes-network.eu/event/learning-week-ii/"> GRAPES Learning Week II: Industrial skills and advanced topics on ML</a>, Institut de Matematiques of the University of Barcelona, Barcelona, Spain.</li>
 	<li> 3-5 July 2023. <a href="https://www.siam.org/conferences/cm/conference/gd23"> SIAM Conference on Computational Geometric Design</a>, Genoa, Italy.</li>
