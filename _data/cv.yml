@@ -1,23 +1,11 @@
-- title: Education
-  type: time_table
-  contents:
-    - title: Ph.D. in Mathematics
-      institution: University of Rome "Tor Vergata", Rome, Italy
-      year: 2020 - now
-      description:
-        - Advisor - <a href="http://www.mat.uniroma2.it/~manni/home_ing.html">Carla Manni</a>, <a href="https://www.mat.uniroma2.it/~speleers/">Hendrik Speleers</a>
-    - title: M.Sc. in Computational Engineering
-      institution: Ruhr University of Bochum, Bochum, Germany
-      year: 2017 - 2020
-      description:
-        - Advisor - <a href="http://mechmat.rub.de/mitarbeiter/bui.html">Hoang Giang Bui</a>, <a href="https://www.sd.ruhr-uni-bochum.de/mitarbeiter/Meschke.html">Günther Meschke</a> 
-    - title: B.E. in Mechanical Engineering
-      institution: Gujarat Technological University, Gujarat, India
-      year: 2013 - 2017
-
 - title: Research Experience
   type: time_table
   contents:
+    - title: Research associate
+      institution: Department of Mathematics, University of Rome "Tor Vergata", Rome, Italy
+      year: 2020 - Present
+      description:
+        - Supervisor - <a href="http://www.mat.uniroma2.it/~manni/home_ing.html">Carla Manni</a>, <a href="https://www.mat.uniroma2.it/~speleers/">Hendrik Speleers</a>
     - title: Visiting Researcher
       institution: Department of Mathematics and Cybernetics, SINTEF Digital, Oslo, Norway
       year: May - June 2023
@@ -39,15 +27,34 @@
       description:
         - Supervisor - <a href="https://www.sd.ruhr-uni-bochum.de/mitarbeiter/Meschke.html">Günther Meschke</a> 
 
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D. in Mathematics
+      institution: University of Rome "Tor Vergata", Rome, Italy
+      year: 2020 - 2024
+      description:
+        - Advisor - <a href="http://www.mat.uniroma2.it/~manni/home_ing.html">Carla Manni</a>, <a href="https://www.mat.uniroma2.it/~speleers/">Hendrik Speleers</a>
+    - title: M.Sc. in Computational Engineering
+      institution: Ruhr University of Bochum, Bochum, Germany
+      year: 2017 - 2020
+      description:
+        - Advisor - <a href="http://mechmat.rub.de/mitarbeiter/bui.html">Hoang Giang Bui</a>, <a href="https://www.sd.ruhr-uni-bochum.de/mitarbeiter/Meschke.html">Günther Meschke</a> 
+    - title: B.E. in Mechanical Engineering
+      institution: Gujarat Technological University, Gujarat, India
+      year: 2013 - 2017
+
 - title: Grants
   type: time_table
   contents:
     - title: Research grant from <a href="https://www.supercomputing-icsc.it/en/spoke-6-multiscale-modelling-engineering-applications-2/">Italian Research Center on HPC, Big Data and Quantum Computing</a>
-      year: 2024-2025
+      year: 2024 - 2025
     - title: <a href="http://grapes-network.eu/">LearninG, pRocessing, And oPtimising shapES (GRAPES)</a>
-      year: 2020-2023
+      year: 2020 - 2023
       description: Marie Skłodowska-Curie Innovative Training Networks, funded by the European Commission.
-
+    - title: Research grant from Institute for Structural Mechanics, Ruhr University Bochum
+      year: July – Sept 2020
+ 
 
 # - title: General Information
 #   type: map
