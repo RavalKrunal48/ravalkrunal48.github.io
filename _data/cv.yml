@@ -1,6 +1,11 @@
 - title: Research Experience
   type: time_table
   contents:
+    - title: Post-Doc Researcher
+      institution: Department of Mathematics and Computer Science, University of Florence, Italy
+      year: 2024 - Present
+      description:
+        - Supervisor - <a href="https://people.dimai.unifi.it/giannelli/">Carlotta Giannelli</a>
     - title: Research associate
       institution: Department of Mathematics, University of Rome "Tor Vergata", Rome, Italy
       year: 2020 - Present
@@ -47,6 +52,8 @@
 - title: Grants
   type: time_table
   contents:
+    - title: Research grant from <a href="https://fondazione-fair.it/en/">Future Artificial Intelligence Research (FAIR) foundation, Italy</a>
+      year: 2024 - 2025
     - title: Research grant from <a href="https://www.supercomputing-icsc.it/en/spoke-6-multiscale-modelling-engineering-applications-2/">Italian Research Center on HPC, Big Data and Quantum Computing</a>
       year: 2024 - 2025
     - title: <a href="http://grapes-network.eu/">LearninG, pRocessing, And oPtimising shapES (GRAPES)</a>
